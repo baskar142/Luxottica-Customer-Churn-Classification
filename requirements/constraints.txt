@@ -1,0 +1,2 @@
+# Version constraints for all environments
+cryptography==41.0.2  # Security requirement

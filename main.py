@@ -1,6 +1,2 @@
-# luxottica_churn
-# Created on 2025-05-16
-
-"""
-Module docstring
-"""
+from luxottica_churn.utils.logger import logger
+logger.info("TEST MESSAGE - If you see this, logging works")
